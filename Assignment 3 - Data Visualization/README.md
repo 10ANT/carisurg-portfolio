@@ -38,6 +38,14 @@ Clinical breakdown of pulse readings:
 
 ---
 
+**Age vs Pulse Scatter Plot** - Relationship between age and pulse rate by gender
+No significant correlation between age and pulse was noted:
+
+![ Age vs Pulse ](./images/age_vs_pulse.png)
+
+
+
+
 ## Key Insights
 
 | Finding | Clinical Significance |
